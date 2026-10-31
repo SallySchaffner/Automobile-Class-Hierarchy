@@ -22,7 +22,7 @@ public:
         double carPrice, int carDoors) :
         Automobile(carMake, carModel, carMileage, carPrice)
     {
-        doors = carDoors;
+        doors = carDoors;  
     }
 
     // Accessor for doors attribute
